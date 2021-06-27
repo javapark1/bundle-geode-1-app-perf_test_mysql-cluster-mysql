@@ -38,3 +38,4 @@ setenv.sh0
 build
 run
 stats
+.ipynb*
